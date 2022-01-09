@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d": {
+      "ProjectGuid": "b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d",
+      "DisplayName": "Paycompute",
+      "ColorIndex": 0
+    },
+    "e00ab1a9-dc21-4b72-87c6-c9ac126541db": {
+      "ProjectGuid": "e00ab1a9-dc21-4b72-87c6-c9ac126541db",
+      "DisplayName": "Paycompute.Services",
+      "ColorIndex": 1
+    },
+    "c9a6c380-e3b4-44d4-a8a4-ae67f567de99": {
+      "ProjectGuid": "c9a6c380-e3b4-44d4-a8a4-ae67f567de99",
+      "DisplayName": "Paycompute.Persistence",
+      "ColorIndex": 2
+    },
+    "337856dc-dbc3-4817-b26c-a61ed3618821": {
+      "ProjectGuid": "337856dc-dbc3-4817-b26c-a61ed3618821",
+      "DisplayName": "Paycompute.Entity",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
