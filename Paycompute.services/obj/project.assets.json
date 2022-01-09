@@ -1960,11 +1960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Paycompute.services\\Paycompute.Services.csproj",
+      "projectUniqueName": "C:\\Projects\\PaycomputeApp\\Paycompute.services\\Paycompute.Services.csproj",
       "projectName": "Paycompute.Services",
-      "projectPath": "C:\\Projects\\Paycompute.services\\Paycompute.Services.csproj",
+      "projectPath": "C:\\Projects\\PaycomputeApp\\Paycompute.services\\Paycompute.Services.csproj",
       "packagesPath": "C:\\Users\\allam\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Paycompute.services\\obj\\",
+      "outputPath": "C:\\Projects\\PaycomputeApp\\Paycompute.services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\allam\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1981,11 +1981,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Projects\\Paycompute.Entity\\Paycompute.Entity.csproj": {
-              "projectPath": "C:\\Projects\\Paycompute.Entity\\Paycompute.Entity.csproj"
+            "C:\\Projects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj": {
+              "projectPath": "C:\\Projects\\PaycomputeApp\\Paycompute.Entity\\Paycompute.Entity.csproj"
             },
-            "C:\\Projects\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
-              "projectPath": "C:\\Projects\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
+            "C:\\Projects\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj": {
+              "projectPath": "C:\\Projects\\PaycomputeApp\\Paycompute.Persistence\\Paycompute.Persistence.csproj"
             }
           }
         }
