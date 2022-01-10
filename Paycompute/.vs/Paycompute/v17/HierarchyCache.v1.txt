@@ -1,0 +1,332 @@
+﻿++Solution 'Paycompute' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:Paycompute.sln
+++Paycompute.Services
+i:{00000000-0000-0000-0000-000000000000}:Paycompute.Services
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute.services\bin\debug\net6.0\paycompute.services.dll
+++Dependencies
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:>480
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:>479
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:>481
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>719
+++Analyzers
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:analyzers
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:analyzers
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:analyzers
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:analyzers
+++Frameworks
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:frameworks
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:frameworks
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:frameworks
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:frameworks
+++Projects
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:projects
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:projects
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:projects
+++Implementation
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\projects\paycomputeapp\paycompute.services\implementation\
+++EmployeeService.cs
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\projects\paycomputeapp\paycompute.services\implementation\employeeservice.cs
+++IEmployeeService.cs
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\projects\paycomputeapp\paycompute.services\iemployeeservice.cs
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\users\allam\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\users\allam\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\users\allam\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\users\allam\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\users\allam\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++System.Text.Json.SourceGeneration
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\projects\paycomputeapp\paycompute.services\microsoft.netcore.app
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\projects\paycomputeapp\paycompute.persistence\microsoft.netcore.app
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\projects\paycomputeapp\paycompute.entity\microsoft.netcore.app
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\microsoft.netcore.app
+++Paycompute.Entity
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\projects\paycomputeapp\paycompute.entity\bin\debug\net6.0\paycompute.entity.dll
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\projects\paycomputeapp\paycompute.entity\bin\debug\net6.0\paycompute.entity.dll
+i:{00000000-0000-0000-0000-000000000000}:Paycompute.Entity
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute.entity\bin\debug\net6.0\paycompute.entity.dll
+++Paycompute.Persistence
+i:{e00ab1a9-dc21-4b72-87c6-c9ac126541db}:c:\projects\paycomputeapp\paycompute.persistence\bin\debug\net6.0\paycompute.persistence.dll
+i:{00000000-0000-0000-0000-000000000000}:Paycompute.Persistence
+++Packages
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:packages
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:packages
+++Migrations
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\projects\paycomputeapp\paycompute.persistence\migrations\
+++20220107220335_Initial Migration.cs
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\projects\paycomputeapp\paycompute.persistence\migrations\20220107220335_initial migration.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\projects\paycomputeapp\paycompute.persistence\migrations\applicationdbcontextmodelsnapshot.cs
+++ApplicationDbContext.cs
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\projects\paycomputeapp\paycompute.persistence\applicationdbcontext.cs
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.1)
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:>749
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>772
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:>748
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>770
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:>750
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>773
+++20220107220335_Initial Migration.Designer.cs
+i:{c9a6c380-e3b4-44d4-a8a4-ae67f567de99}:c:\projects\paycomputeapp\paycompute.persistence\migrations\20220107220335_initial migration.designer.cs
+++Employee.cs
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\projects\paycomputeapp\paycompute.entity\employee.cs
+++PaymentMethod.cs
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\projects\paycomputeapp\paycompute.entity\paymentmethod.cs
+++PaymentRecord.cs
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\projects\paycomputeapp\paycompute.entity\paymentrecord.cs
+++StudentLoan.cs
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\projects\paycomputeapp\paycompute.entity\studentloan.cs
+++TaxYear.cs
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\projects\paycomputeapp\paycompute.entity\taxyear.cs
+++UnionMember.cs
+i:{337856dc-dbc3-4817-b26c-a61ed3618821}:c:\projects\paycomputeapp\paycompute.entity\unionmember.cs
+++Paycompute
+i:{00000000-0000-0000-0000-000000000000}:Paycompute
+++Connected Services 
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>720
+++Properties
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\properties\
+++wwwroot
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\
+++Areas
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\areas\
+++Controllers
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\controllers\
+++Data
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\data\
+++Models
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\models\
+++EmployeeCreateViewModel.cs
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\models\employeecreateviewmodel.cs
+++EmployeeIndexViewModel.cs
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\models\employeeindexviewmodel.cs
+++ErrorViewModel.cs
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\models\errorviewmodel.cs
+++Views
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\
+++appsettings.json
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\appsettings.json
+++Program.cs
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>778
+++launchSettings.json
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\properties\launchsettings.json
+++serviceDependencies.json
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\properties\servicedependencies.json
+++css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\css\
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\js\
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\
+++favicon.ico
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\favicon.ico
+++Identity
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\areas\identity\
+++EmployeeController.cs
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\controllers\employeecontroller.cs
+++HomeController.cs
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\controllers\homecontroller.cs
+++Home
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\home\
+++Shared
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\shared\
+++_ViewImports.cshtml
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\_viewstart.cshtml
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\areas\identity\pages\_viewstart.cshtml
+++appsettings.Development.json
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\microsoft.aspnetcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.1)
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>771
+++Microsoft.AspNetCore.Identity.UI (6.0.1)
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>774
+++serviceDependencies.local.json
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\properties\servicedependencies.local.json
+++site.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\css\site.css
+++site.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\js\site.js
+++bootstrap
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\
+++jquery
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery\
+++jquery-validation
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation-unobtrusive\
+++Pages
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\areas\identity\pages\
+++Index.cshtml
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\home\index.cshtml
+++Privacy.cshtml
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\shared\error.cshtml
+++dist
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery\dist\
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery\license.txt
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\views\shared\_layout.cshtml.css
+++jquery.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:c:\projects\paycomputeapp\paycompute\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Secrets.json (Local)
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>781
+++Secrets.json (Local) dependency is detected
+i:{b4fa83d2-d3b9-4aa6-8a55-dedac713bf2d}:>782

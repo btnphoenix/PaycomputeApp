@@ -10,3 +10,15 @@ C:\Projects\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.csproj.CoreComp
 C:\Projects\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.dll
 C:\Projects\Paycompute.Entity\obj\Debug\net6.0\ref\Paycompute.Entity.dll
 C:\Projects\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.pdb
+C:\Projects\PaycomputeApp\Paycompute.Entity\bin\Debug\net6.0\Paycompute.Entity.deps.json
+C:\Projects\PaycomputeApp\Paycompute.Entity\bin\Debug\net6.0\Paycompute.Entity.dll
+C:\Projects\PaycomputeApp\Paycompute.Entity\bin\Debug\net6.0\ref\Paycompute.Entity.dll
+C:\Projects\PaycomputeApp\Paycompute.Entity\bin\Debug\net6.0\Paycompute.Entity.pdb
+C:\Projects\PaycomputeApp\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.csproj.AssemblyReference.cache
+C:\Projects\PaycomputeApp\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PaycomputeApp\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.AssemblyInfoInputs.cache
+C:\Projects\PaycomputeApp\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.AssemblyInfo.cs
+C:\Projects\PaycomputeApp\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.csproj.CoreCompileInputs.cache
+C:\Projects\PaycomputeApp\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.dll
+C:\Projects\PaycomputeApp\Paycompute.Entity\obj\Debug\net6.0\ref\Paycompute.Entity.dll
+C:\Projects\PaycomputeApp\Paycompute.Entity\obj\Debug\net6.0\Paycompute.Entity.pdb
