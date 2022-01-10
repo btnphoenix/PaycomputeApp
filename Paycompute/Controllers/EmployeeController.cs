@@ -53,7 +53,7 @@ namespace Paycompute.Controllers
                         Id = model.Id,
                         EmployeeNo = model.EmployeeNo,
                         FirstName = model.FirstName,
-                        MiddleName = model.MiddleName,  
+                        MiddleName = model.MiddleName,
                         LastName = model.LastName,
                         FullName = model.FullName,
                         Gender = model.Gender,
@@ -88,7 +88,7 @@ namespace Paycompute.Controllers
                 return View();
             };
         }
-        
+
         [HttpGet]
         public IActionResult Edit(int id)
         {
@@ -122,33 +122,33 @@ namespace Paycompute.Controllers
         }
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task <IActionResult> Edit(EmployeeEditViewModel model)
+        public async Task<IActionResult> Edit(EmployeeEditViewModel model)
         {
             if (ModelState.IsValid)
-            { 
-            var employee = _employeeService.GetById(model.Id);
-            if (employee == null)
+            {
+                var employee = _employeeService.GetById(model.Id);
+                if (employee == null)
                 {
                     return NotFound();
                 }
-            employee.EmployeeNo = model.EmployeeNo;
-            employee.FirstName = model.FirstName;
-            employee.LastName = model.LastName;
-            employee.MiddleName = model.MiddleName;
-            employee.SocialSecurityNo = model.SocialSecurityNo; 
-            employee.Gender = model.Gender;
-            employee.Email = model.Email;
-            employee.DOB = model.DOB;
-            employee.DateJoined = model.DateJoined;
-            employee.Phone = model.Phone;
-            employee.Designation = model.Designation;
-            employee.PaymentMethod = model.PaymentMethod;
-            employee.StudentLoan = model.StudentLoan;
-            employee.UnionMember = model.UnionMember;
-            employee.Address = model.Address;
-            employee.City = model.City;
-            employee.Postcode = model.Postcode;
-                if (model.ImageUrl != null && model.ImageUrl.Length > 0) 
+                employee.EmployeeNo = model.EmployeeNo;
+                employee.FirstName = model.FirstName;
+                employee.LastName = model.LastName;
+                employee.MiddleName = model.MiddleName;
+                employee.SocialSecurityNo = model.SocialSecurityNo;
+                employee.Gender = model.Gender;
+                employee.Email = model.Email;
+                employee.DOB = model.DOB;
+                employee.DateJoined = model.DateJoined;
+                employee.Phone = model.Phone;
+                employee.Designation = model.Designation;
+                employee.PaymentMethod = model.PaymentMethod;
+                employee.StudentLoan = model.StudentLoan;
+                employee.UnionMember = model.UnionMember;
+                employee.Address = model.Address;
+                employee.City = model.City;
+                employee.Postcode = model.Postcode;
+                if (model.ImageUrl != null && model.ImageUrl.Length > 0)
                 {
                     var uploadDir = @"images/employee";
                     var fileName = Path.GetFileNameWithoutExtension(model.ImageUrl.FileName);
@@ -164,5 +164,62 @@ namespace Paycompute.Controllers
             }
             return View();
         }
+    
+        [HttpGet]
+        public IActionResult Detail(int id)
+        {
+            var employee = _employeeService.GetById(id);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            EmployeeDetailViewModel model = new EmployeeDetailViewModel()
+            {
+                Id = employee.Id,
+                EmployeeNo = employee.EmployeeNo,
+                ImageUrl = employee.ImageUrl,
+                FullName = employee.FullName,
+                Gender = employee.Gender,
+                Designation = employee.Designation,
+                City = employee.City,
+                DateJoined = employee.DateJoined,
+                SocialSecurityNo = employee.SocialSecurityNo,
+                Phone = employee.Phone,
+                Email = employee.Email,
+                PaymentMethod = employee.PaymentMethod,
+                StudentLoan = employee.StudentLoan,
+                UnionMember = employee.UnionMember,
+                Address = employee.Address,
+                Postcode = employee.Postcode,
+            };
+            return View(model);
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            var employee = _employeeService.GetById(id);
+            if (employee == null)
+            {
+                return NotFound();
+            }
+            var model = new EmployeeDeleteViewModel()
+            {
+                Id = employee.Id,
+                FullName = employee.FullName,
+            };
+            return View(model);
+        }
+        
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task <IActionResult> Delete(EmployeeDeleteViewModel model)
+        {
+            await _employeeService.Delete(model.Id);  
+            return RedirectToAction(nameof(Index));
+        }
     }
+
 }
+    
+
